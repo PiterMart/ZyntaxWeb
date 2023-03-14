@@ -8,7 +8,11 @@
     
     html {
         box-sizing: border-box;
+    }
+    
+    body {
         background-image: url(/assets/background-gif.gif);
+
     }
     
      :root {
