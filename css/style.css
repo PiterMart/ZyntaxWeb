@@ -76,3 +76,22 @@
         text-align: center;
         font-size: 2rem;
     }
+
+    .entrance_div {
+        justify-items: center;
+        height: 109%;
+        text-align: center;
+
+    }
+    
+    .entrance_bttn {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        margin: auto;
+    }
+
+    .door{
+        height: 1000px;
+        margin: auto;
+    }
